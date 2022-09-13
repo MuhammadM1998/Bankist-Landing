@@ -54,7 +54,7 @@ const closeCookie = function () {
 btnCloseCookie.addEventListener('click', closeCookie);
 
 message.style.backgroundColor = '#37383d';
-message.style.width = '98.7vw';
+message.style.width = '100vw';
 message.style.padding = '10px';
 
 // Learn More Button - Smooth Scroll
